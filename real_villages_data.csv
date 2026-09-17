@@ -1,0 +1,4 @@
+name,lat,lon,rainfall_mm,slope_deg,population,road_access
+Village_A,25.612,85.137,380,52,2800,poor
+Village_B,25.62,85.145,120,8,350,good
+Village_C,25.605,85.12,290,35,1200,moderate
